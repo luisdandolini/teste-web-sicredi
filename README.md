@@ -1,7 +1,3 @@
-Seja bem vindo! Obrigado pelo interesse em participar do nosso processo seletivo.
-
-Leia atentamente as instruções abaixo e não hesite em entrar em contato com a gente :).
-
 Objetivo
 Criar uma aplicação que contenha​:
 
@@ -50,5 +46,3 @@ edição de um dragão
 
 DELETE .../api/v1/dragon/:id
 deleção de um dragão
-
-Bom teste!
